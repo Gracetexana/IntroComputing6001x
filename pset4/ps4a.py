@@ -12,7 +12,7 @@ SCRABBLE_LETTER_VALUES = {
 }
 
 # -----------------------------------
-# Helper code
+# Start of helper code provided by course
 # (you don't need to understand this helper code)
 
 WORDLIST_FILENAME = "words.txt"
@@ -55,7 +55,7 @@ def getFrequencyDict(sequence):
 
 #
 # Problem #1: Scoring a word
-#
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def getWordScore(word, n):
     """
     Returns the score for a word. Assumes the word is a valid word.
@@ -82,7 +82,7 @@ def getWordScore(word, n):
 
 #
 # Problem #2: Make sure you understand how this function works and what it does!
-#
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def displayHand(hand):
     """
     Displays the letters currently in the hand.
@@ -102,7 +102,7 @@ def displayHand(hand):
 
 #
 # Problem #2: Make sure you understand how this function works and what it does!
-#
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def dealHand(n):
     """
     Returns a random hand containing n lowercase letters.
@@ -128,7 +128,7 @@ def dealHand(n):
 
 #
 # Problem #2: Update a hand by removing letters
-#
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def updateHand(hand, word):
     """
     Assumes that 'hand' has all the letters in word.
@@ -151,7 +151,7 @@ def updateHand(hand, word):
 
 #
 # Problem #3: Test word validity
-#
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def isValidWord(word, hand, wordList):
     """
     Returns True if word is in the wordList and is entirely composed of letters in the hand. Otherwise, returns False.
@@ -175,8 +175,7 @@ def isValidWord(word, hand, wordList):
 
 #
 # Problem #4: Playing a hand
-#
-
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def calculateHandlen(hand):
     """ 
     Returns the length (number of letters) in the current hand.
@@ -188,7 +187,7 @@ def calculateHandlen(hand):
     # TO DO... <-- Remove this comment when you code this function
 
 
-
+# Neither this function nor its code are mine
 def playHand(hand, wordList, n):
     """
     Allows the user to play the given hand, as follows:
@@ -264,8 +263,7 @@ def playHand(hand, wordList, n):
 
 #
 # Problem #5: Playing a game
-# 
-
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def playGame(wordList):
     """
     Allow the user to play an arbitrary number of hands.

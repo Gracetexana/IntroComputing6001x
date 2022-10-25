@@ -57,6 +57,7 @@ WORDLIST_FILENAME = 'words.txt'
 
 class Message(object):
     ### DO NOT MODIFY THIS METHOD ###
+    # Neither this funciton nor its code are mine
     def __init__(self, text):
         '''
         Initializes a Message object
@@ -71,6 +72,7 @@ class Message(object):
         self.valid_words = load_words(WORDLIST_FILENAME)
 
     ### DO NOT MODIFY THIS METHOD ###
+    # Neither this function nor its code are mine
     def get_message_text(self):
         '''
         Used to safely access self.message_text outside of the class
@@ -80,6 +82,7 @@ class Message(object):
         return self.message_text
 
     ### DO NOT MODIFY THIS METHOD ###
+    # Neither this function nor its code are mine
     def get_valid_words(self):
         '''
         Used to safely access a copy of self.valid_words outside of the class
@@ -88,6 +91,7 @@ class Message(object):
         '''
         return self.valid_words[:]
         
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def build_shift_dict(self, shift):
         '''
         Creates a dictionary that can be used to apply a cipher to a letter.
@@ -119,6 +123,7 @@ class Message(object):
 
         return cipher
 
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def apply_shift(self, shift):
         '''
         Applies the Caesar Cipher to self.message_text with the input shift.
@@ -151,6 +156,7 @@ class Message(object):
         return shifted
 
 class PlaintextMessage(Message):
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def __init__(self, text, shift):
         '''
         Initializes a PlaintextMessage object        
@@ -174,6 +180,7 @@ class PlaintextMessage(Message):
         self.encrypting_dict = self.build_shift_dict(self.shift)
         self.message_text_encrypted = self.apply_shift(self.shift)
 
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def get_shift(self):
         '''
         Used to safely access self.shift outside of the class
@@ -183,6 +190,7 @@ class PlaintextMessage(Message):
 
         return self.shift
 
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def get_encrypting_dict(self):
         '''
         Used to safely access a copy self.encrypting_dict outside of the class
@@ -191,6 +199,7 @@ class PlaintextMessage(Message):
         '''
         return self.encrypting_dict.copy()
 
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def get_message_text_encrypted(self):
         '''
         Used to safely access self.message_text_encrypted outside of the class
@@ -199,6 +208,7 @@ class PlaintextMessage(Message):
         '''
         return self.message_text_encrypted
 
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def change_shift(self, shift):
         '''
         Changes self.shift of the PlaintextMessage and updates other 
@@ -216,6 +226,7 @@ class PlaintextMessage(Message):
 
 
 class CiphertextMessage(Message):
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def __init__(self, text):
         '''
         Initializes a CiphertextMessage object
@@ -228,6 +239,7 @@ class CiphertextMessage(Message):
         '''
         Message.__init__(self, text)
 
+    # I created the code within this function, but I did not define the function; additionally, the docstring was provided
     def decrypt_message(self):
         '''
         Decrypt self.message_text by trying every possible shift value
@@ -282,6 +294,7 @@ print('Expected Output:', (24, 'hello'))
 print('Actual Output:', ciphertext.decrypt_message())
 
 # Decrypting story
+# This function is entirely mine
 def decrypt_story():
     nonsense = CiphertextMessage(get_story_string())
     return nonsense.decrypt_message()

@@ -6,7 +6,7 @@ import time
 #
 # Computer chooses a word
 #
-#
+# Neither this function nor its code are mine
 def compChooseWord(hand, wordList, n):
     """
     Given a hand and a wordList, find the word that gives 
@@ -43,7 +43,7 @@ def compChooseWord(hand, wordList, n):
 
 #
 # Computer plays a hand
-#
+# Neither this function nor its code are mine
 def compPlayHand(hand, wordList, n):
     """
     Allows the computer to play the given hand, following the same procedure
@@ -99,8 +99,7 @@ def compPlayHand(hand, wordList, n):
     
 #
 # Problem #6: Playing a game
-#
-#
+# I created the code within this function, but I did not define the function; additionally, the docstring was provided
 def playGame(wordList):
     """
     Allow the user to play an arbitrary number of hands.
@@ -193,7 +192,7 @@ def playGame(wordList):
         
 #
 # Build data structures used for entire session and play game
-#
+# This code is not mine
 if __name__ == '__main__':
     wordList = loadWords()
     playGame(wordList)
