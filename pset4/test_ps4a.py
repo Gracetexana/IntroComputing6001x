@@ -1,6 +1,6 @@
 from ps4a import *
 
-#
+# This entire file was provided by the course to test code in ps4a and ps4b
 # Test code
 # You don't need to understand how this test code works (but feel free to look it over!)
 
