@@ -82,7 +82,7 @@ def getWordScore(word, n):
 
 #
 # Problem #2: Make sure you understand how this function works and what it does!
-# I created the code within this function, but I did not define the function; additionally, the docstring was provided
+# Neither this function nor its code are mine
 def displayHand(hand):
     """
     Displays the letters currently in the hand.
@@ -102,7 +102,7 @@ def displayHand(hand):
 
 #
 # Problem #2: Make sure you understand how this function works and what it does!
-# I created the code within this function, but I did not define the function; additionally, the docstring was provided
+# Neither this function nor its code are mine
 def dealHand(n):
     """
     Returns a random hand containing n lowercase letters.
