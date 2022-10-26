@@ -187,7 +187,7 @@ def calculateHandlen(hand):
     # TO DO... <-- Remove this comment when you code this function
 
 
-# Neither this function nor its code are mine
+# I created the code within this function, but I did not define the function; additionally, the docstring and pseudocode were provided
 def playHand(hand, wordList, n):
     """
     Allows the user to play the given hand, as follows:
