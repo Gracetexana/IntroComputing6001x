@@ -7,11 +7,7 @@ Additionally, we also briefly covered the Python package, Pylab. After working o
 
 ## Units  
 
-<details><summary><h3>
-
-Unit 1: Python Basics
-
-</h3></summary>
+### Unit 1: Python Basics
 
 #### Material Covered:  
 
@@ -46,14 +42,8 @@ Unit 1: Python Basics
   >\
   >**Longest substring in alphabetical order is: abc**  
   
-</details>
-
-<details><summary><h3>
+### Unit 2: Simple Programs
   
-Unit 2: Simple Programs
-  
-</h3></summary>
-
 #### Material Covered:  
 
 3. Simple Algorithms  
@@ -106,13 +96,8 @@ The following variables contain values as described below:
   >
   >\
   >Write a program that uses bisection search to find the smallest monthly payment to the cent (no more multiples of $10) such that we can pay off the debt within a year.  
-</details>
 
-<details><summary><h3>
-
-Unit 3: Structured Types
-
-</h3></summary>
+### Unit 3: Structured Types
 
 #### Material Covered:  
 
@@ -135,13 +120,7 @@ Unit 3: Structured Types
 
 - [Completed Assignment](pset3/ps3_hangman.py)  
   
-</details>
-
-<details><summary><h3>
-
-Unit 4: Good Programming Practices
-
-</h3></summary>
+### Unit 4: Good Programming Practices
 
 #### Material Covered:  
 
@@ -193,13 +172,7 @@ Unit 4: Good Programming Practices
   
 - [Completed Assignment Part 2](pset4/ps4b.py)
   
-</details>
-
-<details><summary><h3>
-
-Unit 5: Object Oriented Programming
-
-</h3></summary>
+### Unit 5: Object Oriented Programming
 
 #### Material Covered:  
 
@@ -244,30 +217,16 @@ Unit 5: Object Oriented Programming
 
 - [Completed Assignment](pset5/ps5.py)  
   
-</details>
-
-<details><summary><h3>
-
-Unit 6: Algorithmic Complexity
-
-</h3></summary>
+### Unit 6: Algorithmic Complexity
 
 #### Material Covered:  
 
 11. Computational Complexity  
 12. Searching and Sorting Algorithms  
   
-</details>
-
-<details><summary><h3>
-
-Unit 7: Plotting
-
-</h3></summary>
+### Unit 7: Plotting
 
 #### Material Covered:  
 
 13. Plotting
 - Summary and Wrap-Up
-  
-</details>
