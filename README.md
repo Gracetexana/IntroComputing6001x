@@ -1,6 +1,6 @@
 # Introduction to Computer Science and Programming Using Python
 
-## [MITx 6.00.1x through edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+# [MITx 6.00.1x through edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
 On my quest to become a data scientist, I enrolled in this course from August 25, 2022 to October 27, 2022. I learned much more than I expected; of course I learned and relearned some Python basics, but I also learned how to think computationally.  
 Additionally, we also briefly covered the Python package, Pylab. After working on [my last repository](https://github.com/Gracetexana/Rosalind), I was hoping to learn a little bit more about Python packages, so I was pleased that we did in this course.
