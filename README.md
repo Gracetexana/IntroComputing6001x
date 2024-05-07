@@ -42,6 +42,8 @@ Additionally, we also briefly covered the Python package, Pylab. After working o
   >\
   >**Longest substring in alphabetical order is: abc**  
   
+
+
 ### Unit 2: Simple Programs
   
 #### Material Covered:  
@@ -97,6 +99,8 @@ The following variables contain values as described below:
   >\
   >Write a program that uses bisection search to find the smallest monthly payment to the cent (no more multiples of $10) such that we can pay off the debt within a year.  
 
+
+
 ### Unit 3: Structured Types
 
 #### Material Covered:  
@@ -120,6 +124,8 @@ The following variables contain values as described below:
 
 - [Completed Assignment](pset3/ps3_hangman.py)  
   
+
+
 ### Unit 4: Good Programming Practices
 
 #### Material Covered:  
@@ -172,6 +178,8 @@ The following variables contain values as described below:
   
 - [Completed Assignment Part 2](pset4/ps4b.py)
   
+
+
 ### Unit 5: Object Oriented Programming
 
 #### Material Covered:  
@@ -217,6 +225,8 @@ The following variables contain values as described below:
 
 - [Completed Assignment](pset5/ps5.py)  
   
+
+
 ### Unit 6: Algorithmic Complexity
 
 #### Material Covered:  
@@ -224,6 +234,8 @@ The following variables contain values as described below:
 11. Computational Complexity  
 12. Searching and Sorting Algorithms  
   
+
+
 ### Unit 7: Plotting
 
 #### Material Covered:  
