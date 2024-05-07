@@ -5,9 +5,7 @@
 On my quest to become a data scientist, I enrolled in this course from August 25, 2022 to October 27, 2022. I learned much more than I expected; of course I learned and relearned some Python basics, but I also learned how to think computationally.  
 Additionally, we also briefly covered the Python package, Pylab. After working on [my last repository](https://github.com/Gracetexana/Rosalind), I was hoping to learn a little bit more about Python packages, so I was pleased that we did in this course.
 
-## Units  
-
-### Unit 1: Python Basics
+## Unit 1: Python Basics
 
 #### Material Covered:  
 
@@ -44,7 +42,7 @@ Additionally, we also briefly covered the Python package, Pylab. After working o
   
 
 
-### Unit 2: Simple Programs
+## Unit 2: Simple Programs
   
 #### Material Covered:  
 
@@ -101,7 +99,7 @@ The following variables contain values as described below:
 
 
 
-### Unit 3: Structured Types
+## Unit 3: Structured Types
 
 #### Material Covered:  
 
@@ -126,7 +124,7 @@ The following variables contain values as described below:
   
 
 
-### Unit 4: Good Programming Practices
+## Unit 4: Good Programming Practices
 
 #### Material Covered:  
 
@@ -180,7 +178,7 @@ The following variables contain values as described below:
   
 
 
-### Unit 5: Object Oriented Programming
+## Unit 5: Object Oriented Programming
 
 #### Material Covered:  
 
@@ -227,7 +225,7 @@ The following variables contain values as described below:
   
 
 
-### Unit 6: Algorithmic Complexity
+## Unit 6: Algorithmic Complexity
 
 #### Material Covered:  
 
@@ -236,7 +234,7 @@ The following variables contain values as described below:
   
 
 
-### Unit 7: Plotting
+## Unit 7: Plotting
 
 #### Material Covered:  
 
